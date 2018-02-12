@@ -24,4 +24,10 @@ function removeElementFromBeginningOfArray(array) {
   array.slice(1)
   return array;
 }
-function desc
+function destructivelyRemoveElementFromEndOfArray
+
+
+
+
+
+
